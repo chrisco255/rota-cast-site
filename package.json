@@ -1,0 +1,18 @@
+{
+  "name": "rota-cast-site",
+  "version": "1.0.0",
+  "description": "RotaCast connects your staff over time and distance in a human way. This is the repository for RotaCast's home page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Chris Cordle",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^3.0.1-beta.20",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
